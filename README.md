@@ -23,9 +23,15 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Tech stack
 
 Next.js
+
 typescript
+
 tailwind css
+
 mongodb
+
 clerk auth
+
 stripe
+
 cloudinary
